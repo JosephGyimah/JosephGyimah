@@ -30,7 +30,7 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mongodb,figma,git,github,vscode,nodejs" />
 
 </p>
 
@@ -65,13 +65,17 @@ A web-based system designed to manage support tickets, users, and administrative
 
 </p>
 
+
 ---
+
 
 ## 💡 Developer Mindset
 
 > **Build skills. Build systems. Build the future.**
 
+
 ---
+
 
 ⭐*Always learning. Always building.*
 ⭐*Passion:)*
