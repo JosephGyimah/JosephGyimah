@@ -73,6 +73,5 @@ A web-based system designed to manage support tickets, users, and administrative
 
 ---
 
-⭐**Always learning. Always building.**
----
-⭐**Passion:)**
+⭐*Always learning. Always building.*
+⭐*Passion:)*
