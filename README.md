@@ -1,7 +1,7 @@
 <!-- Animated Intro -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Joseph+Gyimah;IT+Student+%7C+Aspiring+Web+Developer;Building+Real+World+Tech+Solutions;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Joseph+Gyimah;Building+Real+World+Tech+Solutions+With+AI;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -22,7 +22,9 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 * 🤖 Interested in **AI, Automation, Web Development and Agentic Engineering**
 * 🎯 Goal: Build impactful software and grow into a world-class developer
 
+
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -32,13 +34,18 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 
 </p>
 
+
 ---
+
 
 ## 📌 Current Projects
 
 🔹 **Help Desk / Ticketing System**
 A web-based system designed to manage support tickets, users, and administrative workflows.
+
+
 ---
+
 
 ## 🌐 Connect With Me
 
@@ -67,4 +74,5 @@ A web-based system designed to manage support tickets, users, and administrative
 ---
 
 ⭐**Always learning. Always building.**
+---
 ⭐**Passion:)**
