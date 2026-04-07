@@ -8,7 +8,7 @@
 
 # 👨‍💻 Joseph Gyimah
 
-💻 **IT Student | Web Developer in Training | Tech Builder**
+💻 **Software Developer | Agentic Engineer**
 
 I enjoy building useful systems, learning modern technologies, and improving my development skills every day.
 
@@ -16,11 +16,10 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 
 ## 🚀 About Me
 
-* 🎓 Information Technology Student (Level 200)
-* 💼 Assistant I.T / Facility Manager
-* 🏢 Working at **Datamaker**
-* 🌱 Currently learning **JavaScript & Full Stack Development**
-* 🤖 Interested in **AI, Automation, and System Design**
+* 🎓 Information Technology Student, **University of Ghana** (Level 300)
+* 💼 Currently working at **Datamaker** as an Assistant I.T Manager 
+* 🌱 Currently learning **Full Stack Development**
+* 🤖 Interested in **AI, Automation, Web Development and Agentic Engineering**
 * 🎯 Goal: Build impactful software and grow into a world-class developer
 
 ---
@@ -29,7 +28,7 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs" />
 
 </p>
 
@@ -39,32 +38,6 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 
 🔹 **Help Desk / Ticketing System**
 A web-based system designed to manage support tickets, users, and administrative workflows.
-
-🔹 **AI Opportunity Navigator for African Students**
-An AI-powered tool to help students discover opportunities and resources for growth.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JosephGyimah&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephGyimah&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JosephGyimah&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -87,18 +60,11 @@ An AI-powered tool to help students discover opportunities and resources for gro
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JosephGyimah/JosephGyimah/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 💡 Developer Mindset
 
 > **Build skills. Build systems. Build the future.**
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐**Always learning. Always building.**
+⭐**Passion:)**
