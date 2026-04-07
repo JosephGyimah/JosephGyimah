@@ -49,7 +49,6 @@ A web-based system designed to manage support tickets, users, and administrative
 
 ## 🌐 Connect With Me
 
-<p align="center">
 
 <a href="https://www.linkedin.com/in/josephgyimah">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
