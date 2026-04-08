@@ -19,7 +19,7 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 * 🎓 Information Technology Student, **University of Ghana** (Level 300)
 * 💼 Currently working at **Datamaker** as an Assistant I.T Manager 
 * 🌱 Currently learning **Full Stack Development**
-* 🤖 Interested in **AI, Automation, Web Development and Agentic Engineering**
+* 🤖 Interested in **AI, Automation, Software Development & Agentic Engineering**
 * 🎯 Goal: Build impactful software and grow into a world-class developer
 
 
