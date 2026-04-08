@@ -1,14 +1,14 @@
 <!-- Animated Intro -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Joseph+Gyimah;Building+Real+World+Tech+Solutions+With+AI;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Joseph;Building+Real+World+Tech+Solutions+With+AI;Always+Learning+Something+New" />
 </p>
 
 ---
 
 # 👨‍💻 Joseph Gyimah
 
-💻 **Software Developer | Agentic Engineer**
+💻 **Software Engineer | Agentic Engineer**
 
 I enjoy building useful systems, learning modern technologies, and improving my development skills every day.
 
