@@ -54,7 +54,7 @@ A web-based system designed to manage support tickets, users, and administrative
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/JosephGyimah_">
+<a href="https://x.com/JosephGyimahX">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
