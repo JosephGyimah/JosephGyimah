@@ -1,5 +1,5 @@
 
-# 👨‍💻 Hi, I'm Joseph Gyimah
+# Hi, I'm Joseph Gyimah
 
 💻 **Software Engineer | Agentic Engineer**
 
