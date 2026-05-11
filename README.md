@@ -11,7 +11,7 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 
 * 🎓 Information Technology Student, **University of Ghana** (Level 300)
 * 💼 Currently working at **Datamaker** as an Assistant I.T Manager 
-* 🌱 Currently learning **Full Stack Development**
+* 🌱 Currently learning **AI Automation & AI Engineering**
 * 🤖 Interested in **AI, Automation, Software Development & Agentic Engineering**
 * 🎯 Goal: Build impactful software and grow into a world-class developer
 
@@ -23,7 +23,7 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mongodb,figma,git,github,nodejs,expressjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mongodb,figma,git,github,nodejs,expressjs,python" />
 
 </p>
 
@@ -36,6 +36,8 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 🔹 **Help Desk / Ticketing System**
 A web-based system designed to manage support tickets, users, and administrative workflows.
 
+🔹 **AI Opportunity Finder**
+An AI-powered platform that matches students with the right opportunities faster, smarter, and with full transparency.
 
 ---
 
