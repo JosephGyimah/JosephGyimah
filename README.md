@@ -23,7 +23,7 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mongodb,figma,git,github,nodejs,expressjs,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,mongodb,firebase,supabase,figma,git,github,nodejs,expressjs,python" />
 
 </p>
 
