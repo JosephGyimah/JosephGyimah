@@ -8,7 +8,7 @@ I enjoy building useful systems, learning modern technologies, and improving my 
 
 ## 🚀 About Me
 
-* 🎓 Information Technology Student, **University of Ghana** (Level 300)
+* 🎓 Information Technology Student, **University of Ghana** (Level 400)
 * 💼 Currently working at **Datamaker** as an Assistant I.T Manager 
 * 🌱 Currently learning **AI Automation & AI Engineering**
 * 🤖 Interested in **AI, Automation, Software Development & Agentic Engineering**
